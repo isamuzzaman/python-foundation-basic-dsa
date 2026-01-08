@@ -7,7 +7,21 @@
 - Average calculation
 - Mini Project: Student Information Card
 
+```Output
+# Mini Project
+print("------ Student Information ------")
+Name = "Isam Zaman"
+Department = "CSE"
+CGPA = 3.85
+print("Name       :", Name)
+print("Department :", Department)
+print("CGPA       :", CGPA)
+print("---------------------------------")
+
+   
+
+
 ## Practice Problems
-- Easy: Even or Odd
-- Medium: Average of 3 numbers
+- task1: Even or Odd, Personal information
+- task2: Average of 3 numbers
 - Mini Project: Student Info Card
