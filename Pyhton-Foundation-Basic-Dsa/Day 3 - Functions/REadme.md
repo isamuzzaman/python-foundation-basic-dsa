@@ -7,7 +7,7 @@ This day focuses on learning Python functions to write clean, reusable, and modu
 - Defined and called functions
 - Used parameters and return values
 - Created functions for logic (Even/Odd, Average)
-- Built a simple calculator using multiple functions (Add, Subtract, Multiply, Divide)
+- Built a simple calculator using multiple functions (Add,Subtract, Multiply, Divide)
 ## Sample Output
 The number is: Even
 Average number: 20.0
