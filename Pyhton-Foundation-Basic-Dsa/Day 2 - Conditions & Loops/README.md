@@ -37,5 +37,5 @@ Multiplication Table:
 - Decision making using conditions
 - Repetition using loops
 - Combining loops and conditions
-- Clean, readable program output
+- Clean,readable program output
 - Thinking for small real-life utility programs
