@@ -16,7 +16,7 @@
 
 ## Sample Output
 
-Enter a number: 5
+Enter a number  : 5
 Even/Odd        : Odd
 Number Type     : Positive
 
