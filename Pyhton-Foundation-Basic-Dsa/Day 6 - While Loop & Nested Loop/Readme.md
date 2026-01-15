@@ -6,7 +6,7 @@ This day focuses on practicing loop-based logic using while loops and nested loo
 ## Summary
 - Learned how to use **while loops**
 - Practiced loop control using **break**
-- Worked with **nested loops**
+-  Used **for loops** for repetition
 - Built a simple **Number Guessing Game** using random numbers
 
 ## Skills Gained
