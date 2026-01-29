@@ -1,5 +1,5 @@
 # Write to a file
-file = open("data.txt", "w")
+file = open("data.txt","w")
 file.write("Hello Python\n")
 file.write("File handling practice")
 file.close()
