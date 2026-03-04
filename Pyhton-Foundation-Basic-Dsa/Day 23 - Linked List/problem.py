@@ -113,3 +113,31 @@ class LinkedList:
             current = next_node       
 
         self.head = prev
+
+# Delete Function
+def delete(self, key):
+    temp = self.head
+
+    # If head needs to be deleted
+    if temp is not None:
+        if temp.data == key:
+            self.head = temp.next
+            temp = None
+            return
+
+    # Search for the key
+    prev = None
+    while temp is not None:
+        if temp.data == key:
+            break
+        prev = temp
+        temp = temp.next
+
+    # If key not found
+    if temp is None:
+        print(f"{key} not found in the list")
+        return
+
+    # Unlink node
+    prev.next = temp.next
+    temp = None
