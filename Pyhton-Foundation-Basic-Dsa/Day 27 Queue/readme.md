@@ -1,4 +1,4 @@
-# Day 28: Queue (Basic Data Structure)
+# Day 27: Queue (Basic Data Structure)
 
 ## Description
 This day focuses on understanding and implementing the **Queue** data structure in Python.
